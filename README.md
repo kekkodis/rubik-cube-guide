@@ -28,6 +28,11 @@ L’obiettivo della guida è fornire un metodo semplice, chiaro e progressivo pe
 * LaTeX per la scrittura della guida
 * Immagini esplicative per ogni passaggio
 
+## 🌍 Language
+
+The guide is currently available in Italian.  
+An English version is work in progress.
+
 ## 📁 Struttura del repository
 
 ```
