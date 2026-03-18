@@ -30,8 +30,8 @@ L’obiettivo della guida è fornire un metodo semplice, chiaro e progressivo pe
 
 ## 🌍 Language
 
-- 🇮🇹 Italian (available)
-- 🇬🇧 English (work in progress)
+- Italian (available)
+- English (work in progress)
 
 ## 📁 Struttura del repository
 
